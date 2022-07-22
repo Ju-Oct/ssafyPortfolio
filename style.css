@@ -1,0 +1,9 @@
+.carousel-item img{
+  /* vh = view port의 height */
+  /* vw = view port의 width */
+  height:100vh;
+}
+
+nav{
+  z-index: 1;
+}
